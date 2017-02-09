@@ -1,8 +1,8 @@
 {
   "swagger": "2.0",
   "info": {
-    "version": "1.0.0",
-    "title": "Swagger Petstore",
+    "version": "1.0.1",
+    "title": "Swagger Petstore!!!",
     "license": {
       "name": "MIT"
     }
@@ -32,7 +32,7 @@
             "in": "query",
             "description": "How many items to return at one time (max 100)",
             "required": false,
-            "type": "integer",
+            "type": "string",
             "format": "int32"
           }
         ],
